@@ -1,3 +1,5 @@
+/* for all  */
+
 *{
     margin: 0;
     padding: 0;
@@ -335,6 +337,8 @@ article .love .maine_all .img_part .overlay p{
     font: 500;
 }
 
+/* animatin added */
+
 .counter .all_items .item{
 
     animation: 
@@ -350,7 +354,7 @@ article .love .maine_all .img_part .overlay p{
       background-color: rgb(96, 242, 213);
     }
   }
-
+/* end animmation */
 .sponspors .title{
     width: 500px;
     text-align: center;
@@ -412,6 +416,7 @@ article .love .maine_all .img_part .overlay p{
     padding-bottom: 35px;
 }
 
+/* start responsive section */
 @media (max-width:576px) {
     
 .container {
@@ -522,3 +527,4 @@ article .love .maine_all .img_part .overlay {
     margin: 55px;
 }
 }
+/* End responsive section */
